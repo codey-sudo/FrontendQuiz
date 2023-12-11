@@ -55,6 +55,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+- How to make a single page application using JSON?
+
 ### Just Drafts for a plan of attack
 
 
