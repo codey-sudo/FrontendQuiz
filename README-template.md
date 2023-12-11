@@ -55,6 +55,26 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+### Just Drafts for a plan of attack
+Mapping out the core logic of your application can be facilitated by various tools that help you plan, visualize, and document your code. Here are some programmer's tools that can be useful for mapping out core logic:
+
+Flowcharts:
+
+Tools: Draw.io, Lucidchart, Microsoft Visio
+Use Case: Flowcharts are great for visualizing the flow of your program, including decision points, loops, and the sequence of operations.
+Mind Maps:
+
+Tools: XMind, MindMeister, FreeMind
+Use Case: Mind maps can help you brainstorm and organize ideas, making them useful for high-level planning and breaking down complex problems.
+UML Diagrams:
+
+Tools: Visual Paradigm, draw.io, PlantUML
+Use Case: Unified Modeling Language (UML) diagrams, such as class diagrams and sequence diagrams, can help you represent the structure and interactions in your software.
+Pseudocode:
+
+Tools: Any text editor or collaborative writing tool
+Use Case: Write pseudocode, which is a high-level description of your program's logic using plain language, to plan and structure your code before implementation.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -108,6 +128,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 - [MDN Introduction to Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
 - [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+
+
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
