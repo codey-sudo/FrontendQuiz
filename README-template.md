@@ -59,6 +59,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Just Drafts for a plan of attack
 
+- Think about the transitions from one section to the rest.
 
 - Get ChatGPT to help with writing out or planning the core logic.
 
