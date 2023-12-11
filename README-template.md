@@ -56,6 +56,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## My process
 
 ### Just Drafts for a plan of attack
+
+
+- Get ChatGPT to help with writing out or planning the core logic.
+
 Mapping out the core logic of your application can be facilitated by various tools that help you plan, visualize, and document your code. Here are some programmer's tools that can be useful for mapping out core logic:
 
 Flowcharts:
