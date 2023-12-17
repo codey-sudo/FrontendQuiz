@@ -84,6 +84,8 @@ Pseudocode:
 Tools: Any text editor or collaborative writing tool
 Use Case: Write pseudocode, which is a high-level description of your program's logic using plain language, to plan and structure your code before implementation.
 
+Finish Creately diagram with putting pseudocode side by side with flow-chart task flows.
+
 ### Built with
 
 - Semantic HTML5 markup
