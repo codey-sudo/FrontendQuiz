@@ -58,6 +58,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - How to make a single page application using JSON?
 - Something different: [Vercel](https://vercel.com/docs)
 - All the avenues and directions I considered during the planning phase, like single page, framework application vs. Vanilla javascript
+- Figjam used for task flows, flowcharts
 
 ### Just Drafts for a plan of attack
 
