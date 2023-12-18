@@ -59,12 +59,13 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Something different: [Vercel](https://vercel.com/docs)
 - All the avenues and directions I considered during the planning phase, like single page, framework application vs. Vanilla javascript
 - Figjam used for task flows, flowcharts
+- Modular approach to fullstack design
+- ChatGPT for help with planning out the logic of system
 
 ### Just Drafts for a plan of attack
 
 - Think about the transitions from one section to the rest.
 
-- Get ChatGPT to help with writing out or planning the core logic.
 
 Mapping out the core logic of your application can be facilitated by various tools that help you plan, visualize, and document your code. Here are some programmer's tools that can be useful for mapping out core logic:
 
@@ -95,8 +96,8 @@ Finish Creately diagram with putting pseudocode side by side with flow-chart tas
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
+- [Figjam](https://www.figma.com/figjam/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
