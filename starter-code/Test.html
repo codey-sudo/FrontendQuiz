@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-
+  <main>
     <header>
 
     </header>
@@ -15,29 +15,40 @@
     <section>
 
     </section>
+
+  </main>
     
 
     <script>
       
       // Display subjects with DOM as buttons and user selects one
       // Create all elements in the page
+      // focus on functionality
       
       // https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
       // Data
       subjects = ["HTML", "Accessibility", "CSS", "Javascript"];
       
-
-
-
+       
+      // Global Styles
+      centerMain = document.querySelector('main');
+      centerMain.style.display = 'flex';
+      centerMain.style.flexDirection = 'column';
+      centerMain.style.alignItems = 'center';
+      centerMain.style.justifyContent = 'center';
       
+
       // View populated header section
       function populateHeader() {
+      const centerMain = document.querySelector('main');
       const header = document.querySelector("header");
       const myH1 = document.createElement("h1");
-      const headerContent = document.createTextNode("Pick a subject");
+      const headerContent = document.createTextNode("Pick a subject to get started");
       myH1.appendChild(headerContent);
-      document.body.appendChild(myH1);
+      header.appendChild(myH1);
+      centerMain.appendChild(header);
+      document.body.appendChild(centerMain);
       }
       
       populateHeader();
@@ -47,7 +58,7 @@
 
 
 
-      // Control display subjects on buttons
+      // Control: display subjects on buttons
 
 
      /* function addButtons() {
@@ -61,24 +72,30 @@
       }*/
       
 
-     // Breakdown problem, 1. create the button sans text, 2. create the text sans buttons
+     // Breakdown problem, 1. create the button sans text, 2. create the text sans buttons, 3. create the buttons
 
       
       function addButtons() {
         for (sub of subjects) {
+        const centerMain = document.querySelector('main');
         const inSection = document.querySelector("section");
         const writeItems = document.createTextNode(sub);
         const newButtons = document.createElement('button');
         newButtons.style.display = 'block';
+        newButtons.style.width = '15rem';
+        newButtons.style.height = '2rem';
+        newButtons.style.marginBottom = '1rem';
         newButtons.appendChild(writeItems);
-        document.body.appendChild(newButtons);
+        inSection.appendChild(newButtons);
+        centerMain.appendChild(inSection);
+        document.body.appendChild(centerMain);
           
         }
       }
       
       addButtons();
 
-
+      
       
     
 
