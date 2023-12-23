@@ -9,8 +9,8 @@
 
     <header>
 
-
     </header>
+
 
     <section>
 
@@ -25,7 +25,11 @@
       // https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 
       // Data
-      subjects = ["HTMl", "Accessibility", "CSS", "Javascript"]
+      subjects = ["HTML", "Accessibility", "CSS", "Javascript"];
+      
+
+
+
       
       // View populated header section
       function populateHeader() {
@@ -38,23 +42,45 @@
       
       populateHeader();
 
-      // Control display subjects on button
-      function addButton() {
+
+
+
+
+
+      // Control display subjects on buttons
+
+
+     /* function addButtons() {
       const mainSection = document.querySelector("section");
-      const subjectButton = document.createElement("button");
-      const buttonText = document.createTextNode("HTML");
-      subjectButton.appendChild(buttonText);
-      document.body.appendChild(subjectButton);
+      for (subject of subjects) {
+        let subjectButton = document.createElement("button");
+        let buttonText = document.createTextNode(subjects);
+        subjectButton.appendChild(buttonText);
+        document.body.appendChild(subjectButton);
+       }
+      }*/
+      
+
+     // Breakdown problem, 1. create the button sans text, 2. create the text sans buttons
+
+      
+      function addButtons() {
+        for (sub of subjects) {
+        const inSection = document.querySelector("section");
+        const writeItems = document.createTextNode(sub);
+        const newButtons = document.createElement('button');
+        newButtons.style.display = 'block';
+        newButtons.appendChild(writeItems);
+        document.body.appendChild(newButtons);
+          
+        }
       }
-
-      addButton();
-     
       
+      addButtons();
 
 
       
-      
-
+    
 
      
 
