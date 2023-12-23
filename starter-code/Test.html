@@ -7,8 +7,10 @@
 </head>
 <body>
 
+    <header>
 
 
+    </header>
 
     <section>
 
@@ -25,12 +27,24 @@
       // Data
       subjects = ["HTMl", "Accessibility", "CSS", "Javascript"]
       
-      // Control
+      // View populated header section
+      function populateHeader() {
+      const header = document.querySelector("header");
+      const myH1 = document.createElement("h1");
+      const headerContent = document.createTextNode("Pick a subject");
+      myH1.appendChild(headerContent);
+      document.body.appendChild(myH1);
+      }
+      
+     populateHeader();
+
+      // control display subjects
       const buttonHTML = document.createElement("button");
+     
+      
 
-      var pickASubject = prompt("pick a subject");
 
-      console.log(pickASubject)
+      
       
 
 
