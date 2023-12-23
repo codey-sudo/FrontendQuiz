@@ -36,10 +36,18 @@
       document.body.appendChild(myH1);
       }
       
-     populateHeader();
+      populateHeader();
 
-      // control display subjects
-      const buttonHTML = document.createElement("button");
+      // Control display subjects on button
+      function addButton() {
+      const mainSection = document.querySelector("section");
+      const subjectButton = document.createElement("button");
+      const buttonText = document.createTextNode("HTML");
+      subjectButton.appendChild(buttonText);
+      document.body.appendChild(subjectButton);
+      }
+
+      addButton();
      
       
 
