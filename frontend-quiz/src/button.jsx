@@ -2,7 +2,7 @@
 
 function Button() {
     return (
-      <button>HTML</button>
+      <button>I'm a button</button>
     );
   }
  export default Button
