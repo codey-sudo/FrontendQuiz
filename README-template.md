@@ -148,6 +148,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
 - [building a fullstack app with steps](https://www.google.com/search?q=building+a+fullstack+app+with+steps&oq=building+a+fullstack+app+with+steps&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCjE0MzM4ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
+- [Building single-page applications with CSS transitions](https://blog.logrocket.com/single-page-applications-css-transitions/#displaying-spa-views)
 
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
