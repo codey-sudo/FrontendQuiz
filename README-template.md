@@ -1,6 +1,6 @@
 # Frontend Mentor - Frontend quiz app solution
 
-This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Frontend quiz app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -65,7 +65,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Just Drafts for a plan of attack
 
 - Think about the transitions from one section to the rest.
-
 
 Mapping out the core logic of your application can be facilitated by various tools that help you plan, visualize, and document your code. Here are some programmer's tools that can be useful for mapping out core logic:
 
@@ -98,6 +97,8 @@ Finish Creately diagram with putting pseudocode side by side with flow-chart tas
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 - [Figjam](https://www.figma.com/figjam/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Mamp](https://www.mamp.info/en/mac/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -110,15 +111,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log("🎉");
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -149,7 +152,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [building a fullstack app with steps](https://www.google.com/search?q=building+a+fullstack+app+with+steps&oq=building+a+fullstack+app+with+steps&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigAdIBCjE0MzM4ajBqMTWoAgCwAgA&sourceid=chrome&ie=UTF-8)
 - [Building single-page applications with CSS transitions](https://blog.logrocket.com/single-page-applications-css-transitions/#displaying-spa-views)
-
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
