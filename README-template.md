@@ -92,12 +92,9 @@ Finish Creately diagram with putting pseudocode side by side with flow-chart tas
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 - [Figjam](https://www.figma.com/figjam/)
-- [Sublime Text](https://www.sublimetext.com/)
 - [Mamp](https://www.mamp.info/en/mac/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
