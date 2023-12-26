@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
     {jsonData.quizzes.map((quiz, index) => (
-      <Button key={index} title={quiz.title} />
+      <Button key={index} buttonText={quiz.title} />
     ))}
   </div>
   );
@@ -16,6 +16,5 @@ function App() {
 
 export default App;
 
-// Read more about the map function and ask chatGPT to explain this code
-// Questions for ChatGPT: Could you explain rhe various ES6 version of javascript functions and methods are and for what uses cases they would be good for? 
-// https://www.w3schools.com/js/js_es6.asp 
+
+

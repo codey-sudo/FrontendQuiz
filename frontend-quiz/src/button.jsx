@@ -1,8 +1,8 @@
 
 
-const Button = ({ title }) => {
+const Button = ({ buttonText }) => {
   return (
-    <button>{title}</button>
+    <button>{buttonText}</button>
   );
 };
 
