@@ -1,11 +1,12 @@
+import jsonData from './data.json';
 
+const Button = ({ title }) => {
+  return (
+    <button>{title}</button>
+  );
+};
 
-function Button() {
-    return (
-      <button></button>
-    );
-  }
- export default Button
+export default Button;
 
 
  
