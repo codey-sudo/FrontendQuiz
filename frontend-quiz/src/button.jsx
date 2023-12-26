@@ -1,4 +1,4 @@
-import jsonData from './data.json';
+
 
 const Button = ({ title }) => {
   return (
