@@ -165,3 +165,147 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Project Contents
+
+## .git
+
+- [COMMIT_EDITMSG](.git/COMMIT_EDITMSG)
+- [FETCH_HEAD](.git/FETCH_HEAD)
+- [HEAD](.git/HEAD)
+- [config](.git/config)
+- [description](.git/description)
+- [index](.git/index)
+
+### branches
+
+### hooks
+
+- [applypatch-msg.sample](.git/hooks/applypatch-msg.sample)
+- [commit-msg.sample](.git/hooks/commit-msg.sample)
+- [post-update.sample](.git/hooks/post-update.sample)
+- [pre-applypatch.sample](.git/hooks/pre-applypatch.sample)
+- [pre-commit.sample](.git/hooks/pre-commit.sample)
+- [pre-push.sample](.git/hooks/pre-push.sample)
+- [pre-rebase.sample](.git/hooks/pre-rebase.sample)
+- [pre-receive.sample](.git/hooks/pre-receive.sample)
+- [prepare-commit-msg.sample](.git/hooks/prepare-commit-msg.sample)
+- [update.sample](.git/hooks/update.sample)
+
+### info
+
+- [exclude](.git/info/exclude)
+
+### logs
+
+### objects
+
+### refs
+
+## frontend-quiz
+
+- [package-lock.json](frontend-quiz/package-lock.json)
+- [package.json](frontend-quiz/package.json)
+
+### node_modules
+
+### public
+
+- [favicon.ico](frontend-quiz/public/favicon.ico)
+- [index.html](frontend-quiz/public/index.html)
+- [logo192.png](frontend-quiz/public/logo192.png)
+- [logo512.png](frontend-quiz/public/logo512.png)
+- [manifest.json](frontend-quiz/public/manifest.json)
+- [robots.txt](frontend-quiz/public/robots.txt)
+
+### src
+
+- [App.css](frontend-quiz/src/App.css)
+- [App.js](frontend-quiz/src/App.js)
+- [App.test.js](frontend-quiz/src/App.test.js)
+- [index.css](frontend-quiz/src/index.css)
+- [index.js](frontend-quiz/src/index.js)
+- [logo.svg](frontend-quiz/src/logo.svg)
+- [reportWebVitals.js](frontend-quiz/src/reportWebVitals.js)
+- [setupTests.js](frontend-quiz/src/setupTests.js)
+
+## starter-code
+
+- [Test.html](starter-code/Test.html)
+- [data.json](starter-code/data.json)
+- [heroes.css](starter-code/heroes.css)
+- [heroes.html](starter-code/heroes.html)
+- [index.html](starter-code/index.html)
+
+### assets
