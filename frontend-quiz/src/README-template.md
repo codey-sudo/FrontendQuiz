@@ -97,6 +97,7 @@ Finish Creately diagram with putting pseudocode side by side with flow-chart tas
 - [Figjam](https://www.figma.com/figjam/)
 - [Mamp](https://www.mamp.info/en/mac/)
 - [dbdiagram.io](https://dbdiagram.io/home)
+- [Mysql](https://www.mysql.com/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
