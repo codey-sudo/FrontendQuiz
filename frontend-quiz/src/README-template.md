@@ -96,6 +96,7 @@ Finish Creately diagram with putting pseudocode side by side with flow-chart tas
 - [Styled Components](https://styled-components.com/) - For styles
 - [Figjam](https://www.figma.com/figjam/)
 - [Mamp](https://www.mamp.info/en/mac/)
+- [dbdiagram.io](https://dbdiagram.io/home)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
