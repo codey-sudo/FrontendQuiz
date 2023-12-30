@@ -7,9 +7,11 @@ import jsonData from './data.json';
 function App() {
   return (
     <div className="App">
-    {jsonData.quizzes.map((quiz, index) => (
-      <Button key={index} buttonText={quiz.title} />
-    ))}
+     <div className='button-frame'>
+       {jsonData.quizzes.map((quiz, index) => (
+         <Button key={index} buttonText={quiz.title} />
+       ))}
+     </div>
   </div>
   );
 }

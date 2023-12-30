@@ -28,3 +28,9 @@ Button {
   border: none;
   margin: 1.5rem;
 }
+
+.button-frame {
+    float: right;
+    margin-top: 120px;
+    margin-right: 80px;
+}
